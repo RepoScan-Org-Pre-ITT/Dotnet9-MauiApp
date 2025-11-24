@@ -1,1 +1,1 @@
-Updated README file for automations
+Updated README file for automation
